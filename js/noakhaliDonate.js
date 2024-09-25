@@ -1,0 +1,1 @@
+const collctedDonationForNoakhali = getCollectedDonationById('collected-donation-for-noakhali');
